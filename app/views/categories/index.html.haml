@@ -1,0 +1,12 @@
+%table.table
+  %tr
+    %td
+      id
+    %td
+      Name
+  - @categories.each do |category|
+    %tr
+      %td
+        = category.id
+      %td
+        = category.name
