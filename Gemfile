@@ -30,6 +30,8 @@ gem 'haml'#, '~> 4.0' #~
 
 gem 'bootstrap-sass', '~> 3.3.4'
 
+gem 'devise'
+
 # Use Unicorn as the app server
 # gem 'unicorn'
 
