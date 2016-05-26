@@ -1,0 +1,11 @@
+table#categories-table{
+	width: 50%;
+}
+
+td{
+    text-align: center;
+}
+
+td#header{
+	font-weight: bold;
+}
